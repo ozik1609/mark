@@ -1,0 +1,60 @@
+
+@font-face { 
+font-family: '10369'; 
+src: url('../fonts/10369.ttf'); 
+src: url('../fonts/10369.ttf?#iefix') format('embedded-opentype'), 
+url('../fonts/hagin_caps_medium-webfont.woff2') format('woff2'), 
+url('../fonts/hagin_caps_medium-webfont.woff') format('woff'), 
+url('../fonts/hagin_caps_medium-webfont.ttf') format('truetype'), 
+url('../fonts/hagin_caps_medium-webfont.svg#hagin_caps_mediumregular') format('svg'); 
+font-weight: normal; 
+font-style: normal; 
+} 
+
+section {
+	padding : 25px;
+	background-color: #f5f5f5;
+	color : #808080;
+	text-align: center;
+}
+.col-fourth{
+	width: 23%;
+}
+.col-fourth{
+	position: relative;
+	display: inline-block;
+	float : left;
+	margin-right: 2%;
+	margin-bottom: 20px;
+	top:-35px;
+	right: -20px;
+}
+.end{
+	margin-right: 2 !important;
+}
+.wrapper{
+	width: 100%;
+	height: 250px;
+	margin: 30px auto;
+	position: relative;
+}
+.counter {
+	background : #fff;
+	padding : 20px 0;
+	border-radius: 5px;
+}
+.count-text{
+	font-size: 15px;
+	font-weight: normal;
+	margin-top : 10px;
+	margin-bottom: 0;
+	text-align: center;
+}
+.fa-2x{
+	margin: 0 auto;
+	float : none;
+	display : table;
+	color : #4ad1e5;
+}
+
+
